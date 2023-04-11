@@ -1,0 +1,27 @@
+div {
+animation: 5s infinite alternate name;
+}
+
+@keyframes name {
+0% {
+    background: red;
+    margin-top: 0;
+    color: blue;
+    
+}
+50% {
+    background: white;
+
+}
+100% {
+    background: blue;
+    margin-top: 300px;
+    color: red;
+    
+    
+}
+
+
+
+
+}
